@@ -1,8 +1,2 @@
-Hello
-My name Christian
-im a student at Telkom Uninversity
-Curently learning basic of:
-  -Python
-  -golang
-  -c++
-  -Java
+# My Profile
+<h1 align="center">Christian Lukito Pangestu</h1>
