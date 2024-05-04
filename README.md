@@ -6,3 +6,4 @@
 <p> -Data structures and algorithms</p>
 <p>  -database and SQL</p>
 <p>  -Web development</p>
+<p>  -Mobile development</p>
